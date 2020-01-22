@@ -1,0 +1,25 @@
+# this file is generated via https://github.com/docker-flink/docker-flink/blob/89abc4a50ec8810c558a8b24891f69f375a19f71/generate-stackbrew-library.sh
+
+Maintainers: Patrick Lucas <me@patricklucas.com> (@patricklucas),
+             Ismaël Mejía <iemejia@gmail.com> (@iemejia)
+GitRepo: https://github.com/docker-flink/docker-flink.git
+
+Tags: 1.8.3-scala_2.11, 1.8-scala_2.11
+Architectures: amd64
+GitCommit: 4d85b71b7cf9fa4a38f8682ed13aa0f55445e32e
+Directory: 1.8/scala_2.11-debian
+
+Tags: 1.8.3-scala_2.12, 1.8-scala_2.12, 1.8.3, 1.8
+Architectures: amd64
+GitCommit: 4d85b71b7cf9fa4a38f8682ed13aa0f55445e32e
+Directory: 1.8/scala_2.12-debian
+
+Tags: 1.9.1-scala_2.11, 1.9-scala_2.11, scala_2.11
+Architectures: amd64
+GitCommit: 8cd66b6f89c13134270a4e865a40c2e5e72cfa21
+Directory: 1.9/scala_2.11-debian
+
+Tags: 1.9.1-scala_2.12, 1.9-scala_2.12, scala_2.12, 1.9.1, 1.9, latest
+Architectures: amd64
+GitCommit: 8cd66b6f89c13134270a4e865a40c2e5e72cfa21
+Directory: 1.9/scala_2.12-debian

@@ -1,0 +1,67 @@
+Maintainers: Alex Soto <asotobu@gmail.com> (@lordofthejars), Otavio Santana <otaviojava@apache.org> (@otaviojava), Jonathan Gallimore <jgallimore@apache.org> (@jgallimore)
+GitRepo: https://github.com/tomitribe/docker-tomee.git
+GitCommit: fbe01211d21051406ffaae5bdf41d1f629caf58f
+Architectures: amd64
+
+Tags: 8-jre-1.7.5-jaxrs
+Directory: 8-jre-1.7.5-jaxrs
+
+Tags: 8-jre-1.7.5-plume
+Directory: 8-jre-1.7.5-plume
+
+Tags: 8-jre-1.7.5-plus
+Directory: 8-jre-1.7.5-plus
+
+Tags: 8-jre-1.7.5-webprofile
+Directory: 8-jre-1.7.5-webprofile
+
+Tags: 8-jre-7.0.4-plume
+Directory: 8-jre-7.0.4-plume
+
+Tags: 8-jre-7.0.4-plus
+Directory: 8-jre-7.0.4-plus
+
+Tags: 8-jre-7.0.4-webprofile
+Directory: 8-jre-7.0.4-webprofile
+
+Tags: 8-jre-7.0.5-plume
+Directory: 8-jre-7.0.5-plume
+
+Tags: 8-jre-7.0.5-plus
+Directory: 8-jre-7.0.5-plus
+
+Tags: 8-jre-7.0.5-webprofile
+Directory: 8-jre-7.0.5-webprofile
+
+Tags: 8-jre-7.0.6-plume
+Directory: 8-jre-7.0.6-plume
+
+Tags: 8-jre-7.0.6-plus
+Directory: 8-jre-7.0.6-plus
+
+Tags: 8-jre-7.0.6-webprofile
+Directory: 8-jre-7.0.6-webprofile
+
+Tags: 8-jre-7.1.0-plume
+Directory: 8-jre-7.1.0-plume
+
+Tags: 8-jre-7.1.0-plus
+Directory: 8-jre-7.1.0-plus
+
+Tags: 8-jre-7.1.0-microprofile
+Directory: 8-jre-7.1.0-microprofile
+
+Tags: 8-jre-7.1.0-webprofile
+Directory: 8-jre-7.1.0-webprofile
+
+Tags: 11-jre-8.0.0-M3-plume
+Directory: 11-jre-8.0.0-M3-plume
+
+Tags: 11-jre-8.0.0-M3-plus
+Directory: 11-jre-8.0.0-M3-plus
+
+Tags: 11-jre-8.0.0-M3-microprofile
+Directory: 11-jre-8.0.0-M3-microprofile
+
+Tags: 11-jre-8.0.0-M3-webprofile, latest
+Directory: 11-jre-8.0.0-M3-webprofile
